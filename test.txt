@@ -1,1 +1,1 @@
-"Test push event new." 
+"Test push event new for the demo tutorial." 
